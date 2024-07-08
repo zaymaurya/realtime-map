@@ -1,2 +1,2 @@
 # realtime-map
-practicing realtime map using socket.io and leaflet
+practicing realtime map using socket.io, ejs and leaflet
